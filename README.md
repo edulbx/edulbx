@@ -1,8 +1,10 @@
-##Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Edu Lima Barros
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Edu Lima Barros
 =======================================================================================================================================
 
 Software engineer
 -----------------
+
+Hi, I'm Edu. I'm a dev who also have a law degree, exp in privacy, and UX by Google. I'm taking all that into my game dev/design career. Learning C++/Python
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [eduardo.limabarros12@gmail.com](mailto:eduardo.limabarros12@gmail.com)
