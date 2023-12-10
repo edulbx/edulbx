@@ -3,6 +3,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardolimabarros/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edu.limabarros/)
 
+
+[![](https://raw.githubusercontent.com/edulbx/test/master/profile-summary-card-output/aura_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/edulbx/test/master/profile-summary-card-output/aura_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/edulbx/test/master/profile-summary-card-output/aura_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/edulbx/test/master/profile-summary-card-output/aura_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/edulbx/test/master/profile-summary-card-output/aura_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
 ![Edu GitHub stats](https://github-readme-stats-edulbx.vercel.app/api?username=edulbx&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats-edulbx.vercel.app/api/top-langs/?username=edulbx&layout=compact)
 
