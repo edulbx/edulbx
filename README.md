@@ -6,7 +6,6 @@ Software and Machine Learning engineer
 
 Hi, I'm Edu. I'm a passioneted developer of Machine Learning Tools and IA student. I also have a law degree wich helped me developer tool in this area and Cybersecurity.
 
-* 🌍  I'm based in Brazil
 * ✉️  You can contact me at [eduardo.limabarros12@gmail.com](mailto:eduardo.limabarros12@gmail.com)
 * 🧠  I'm learning AI, and Deep learning
 
