@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Edu Lima Barros
 =======================================================================================================================================
 
-Software and Machine Learning engineer
+Artificial Intelligence engineer | Python | LLM | Fine-tuning | Machine Learning
 -----------------
 
 Hi, I'm Edu. I'm a passioneted developer of Machine Learning Tools and IA student. I also have a law degree wich helped me developer tool in this area and Cybersecurity.
